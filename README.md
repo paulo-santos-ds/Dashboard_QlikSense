@@ -19,7 +19,7 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://e
 
 # Dashboard de Vendas
 
-![Dashboard de Vendas](./path-to-your-image.png)
+![Dashboard de Vendas](https://github.com/paulo-santos-ds/Dashboard_QlikSense/blob/main/Qlik%20Dash.png)
 
 ## Métricas Principais
 - **Vendas Totais**: 9,97M
