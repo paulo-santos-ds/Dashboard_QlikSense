@@ -18,7 +18,7 @@ Você pode acessar o dashboard interativo no Qlik Sense Browser através do link
 
 # Dashboard de Vendas
 
-![Dashboard de Vendas](https://github.com/paulo-santos-ds/Dashboard_QlikSense/blob/main/Qlik%20Dash.png)
+![Dashboard de Vendas](https://github.com/paulo-santos-ds/Dashboard_QlikSense/blob/main/QlikSenseDash%20.png)
 
 ## Métricas Principais
 - **Vendas Totais**: 9,97M
