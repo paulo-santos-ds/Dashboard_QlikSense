@@ -12,7 +12,7 @@ A estrutura do dashboard foi projetada para oferecer insights imediatos sobre o 
 O sistema foi construído visando atender às necessidades de gestores e analistas que necessitam de informações precisas e atualizadas sobre o desempenho comercial da empresa, oferecendo uma visão consolidada e estratégica dos principais indicadores de vendas.
 
 ## Dashboard Interativo Qlik sense
-Você pode acessar o dashboard interativo no Tableau através do link: https://encurtador.com.br/Mb8oU
+Você pode acessar o dashboard interativo no Qlik Sense Browser através do link: https://abrir.link/awbTa
 
 
 
