@@ -1,7 +1,7 @@
 # Dashboard de Análise de Vendas - Agricola Friends & Co.
 
 ## Descrição do Projeto
- 
+
 
 Este projeto consiste em um dashboard analítico desenvolvido para monitorar e visualizar o desempenho de vendas da empresa. Com uma interface intuitiva, o sistema apresenta três KPIs fundamentais: volume total de vendas (9,97M), quantidade de transações (20k) e valor da maior venda realizada (1k).
 
