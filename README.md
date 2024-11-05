@@ -71,3 +71,10 @@ A distribuição equilibrada entre os vendedores (aproximadamente 16,7% cada) re
 4. Desenvolver estratégias para identificar e replicar as práticas de sucesso entre os vendedores
 
 Esta análise sugere uma operação comercial madura e bem estruturada, com oportunidades específicas para crescimento e otimização.
+
+## 🛠️ Instalação
+
+1. Clone este repositório
+2. Instale as dependências listadas acima
+3. Execute o aplicativo:
+
